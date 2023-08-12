@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehana Aktar</h1>
-<h3 align="center">A new beginner web developer. Currently learning NEXTJS</h3>
+<h3 align="center">A new beginner web developer. Currently learning JavaScript</h3>
 
--   🌱 I’m currently learning **NEXT JS**
+-   🌱 I’m currently learning **JavaScript**
 
 -   📝 I regularly write articles on [https://researchblogbd.com](https://researchblogbd.com)
 
